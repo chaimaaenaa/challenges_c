@@ -1,0 +1,143 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="SiteWebCinema" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2xgsorzsm9ypz">
+      <file>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1713877316487
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1713877316504" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SiteWebCinema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SiteWebCinema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SiteWebCinema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SiteWebCinema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SiteWebCinema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/java/jee/javapack}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SiteWebCinema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/java/jee/javapack}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/java/jee/javapack/dao}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1595000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.6622257" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.6622257" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1713877365518">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="421" y="84" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1713877365518" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
