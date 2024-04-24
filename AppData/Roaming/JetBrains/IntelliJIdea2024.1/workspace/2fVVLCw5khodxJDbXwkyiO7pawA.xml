@@ -19,33 +19,17 @@
         </entry>
       </file>
       <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jee/javapack/dao/FilmDAO.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jee/javapack/dao/ReservationDAO.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="110">
-              <caret line="5" lean-forward="true" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jee/javapack/servlets/CinemaHome.java">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="176">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="66">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file>
-        <entry file="file://$PROJECT_DIR$/src/main/java/jee/javapack/dao/ReservationDAO.java">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="44">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/jee/javapack/dao/FilmDAO.java">
+          <provider editor-type-id="text-editor" selected="true" />
         </entry>
       </file>
     </leaf>
@@ -54,18 +38,17 @@
   "data": {
     "JAVA": {
       "usageCount": 3,
-      "lastUsed": 1713879710889
+      "lastUsed": 1713886880059
     },
     "Markdown": {
       "usageCount": 1,
-      "lastUsed": 1713877316487
+      "lastUsed": 1713886181790
     }
   }
 }]]></component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/src/main/java/jee/javapack/dao/ReservationDAO.java" />
-      <option value="$PROJECT_DIR$/src/main/java/jee/javapack/servlets/CinemaHome.java" />
       <option value="$PROJECT_DIR$/src/main/java/jee/javapack/dao/FilmDAO.java" />
     </changedPaths>
   </component>
@@ -78,10 +61,10 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="3" lastUsage="1713879710889" />
+      <summary usageCount="3" lastUsage="1713886880059" />
     </language>
     <language id="Markdown">
-      <summary usageCount="1" lastUsage="1713877316504" />
+      <summary usageCount="1" lastUsage="1713886181795" />
     </language>
   </component>
   <component name="MavenProjectNavigator">
@@ -134,15 +117,6 @@
               <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/java}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/java/jee}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/java/jee/cinema}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SiteWebCinema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/java}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/java/jee}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/java/jee/javapack}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -165,21 +139,6 @@
               <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/java/jee/javapack}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/java/jee/javapack/servlets}" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SiteWebCinema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/webapp}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SiteWebCinema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/webapp}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://C:/Users/user/IdeaProjects/SiteWebCinema/src/main/webapp/WEB-INF}" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -188,16 +147,16 @@
     </panes>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4434000" />
+    <option name="totallyTimeSpent" value="1339000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.6622257" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2704918" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3306092" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Build" order="4" />
@@ -206,18 +165,17 @@
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.3306092" left="0.6622257" />
+      <unified_weights left="0.2704918" />
     </layoutV2>
     <recentWindows>
       <value>Project</value>
-      <value>Problems View</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1713877365518">
+    <state x="680" y="99" key="FileChooserDialogImpl" timestamp="1713886274882">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="421" y="84" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1713877365518" />
+    <state x="680" y="99" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1713886274882" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -228,29 +186,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jee/javapack/dao/FilmDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jee/javapack/servlets/CinemaHome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jee/javapack/dao/ReservationDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="66">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/javapack/dao/FilmDAO.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
