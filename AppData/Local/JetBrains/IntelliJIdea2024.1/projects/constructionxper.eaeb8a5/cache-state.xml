@@ -1,0 +1,55 @@
+<project version="4">
+  <component name="ExternalSystemProjectTracker">
+    <option name="projectSettingsTrackerStates">
+      <map>
+        <entry>
+          <key>
+            <Id>
+              <option name="externalProjectPath" value="ConstructionXper" />
+              <option name="systemId" value="MAVEN" />
+            </Id>
+          </key>
+          <value>
+            <Project>
+              <option name="settingsTracker">
+                <State>
+                  <option name="dirty" value="false" />
+                  <option name="settingsFiles">
+                    <map>
+                      <entry key="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" value="48209221" />
+                      <entry key="$PROJECT_DIR$/pom.xml" value="2470495548" />
+                    </map>
+                  </option>
+                </State>
+              </option>
+            </Project>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProcessedFilesStorage">
+    <timestamps>
+      <entry key="1a6ec3a9c0e262e3892be15f05b7fabd" value="1716218734573" />
+      <entry key="5ee6b20543af86e558e5626585f95476" value="1716218725440" />
+      <entry key="8ca27ec8616ddd88de96f0aa11412007" value="1716218684330" />
+    </timestamps>
+  </component>
+  <component name="ProjectDependenciesModelState">
+    <option name="PROJECT_STATE" value="[{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;jakarta.servlet&quot;,&quot;name&quot;:&quot;jakarta.servlet-api&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;5.0.0&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:jakarta.servlet:jakarta.servlet-api:5.0.0:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:jakarta.servlet:jakarta.servlet-api:5.0.0&quot;,&quot;searchCoordinates&quot;:&quot;jakarta.servlet:jakarta.servlet-api:5.0.0&quot;,&quot;searchKey&quot;:&quot;dae1258def60d5bb4a987709e80212f7eb92d6ee3b07e8b11671078e825ede4a&quot;},{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.junit.jupiter&quot;,&quot;name&quot;:&quot;junit-jupiter-api&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;5.9.2&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:org.junit.jupiter:junit-jupiter-api:5.9.2:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.junit.jupiter:junit-jupiter-api:5.9.2&quot;,&quot;searchCoordinates&quot;:&quot;org.junit.jupiter:junit-jupiter-api:5.9.2&quot;,&quot;searchKey&quot;:&quot;528edf64683de4b79dbcdf9ea671cc47c378626acf8368dc2bca6c14f11dacc5&quot;},{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.opentest4j&quot;,&quot;name&quot;:&quot;opentest4j&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;1.2.0&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:org.opentest4j:opentest4j:1.2.0:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.opentest4j:opentest4j:1.2.0&quot;,&quot;searchCoordinates&quot;:&quot;org.opentest4j:opentest4j:1.2.0&quot;,&quot;searchKey&quot;:&quot;c4a4a79d66ff635632ec61d355d82eeca5db2e15090d7d633d59fc14f6de01e0&quot;},{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.junit.platform&quot;,&quot;name&quot;:&quot;junit-platform-commons&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;1.9.2&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:org.junit.platform:junit-platform-commons:1.9.2:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.junit.platform:junit-platform-commons:1.9.2&quot;,&quot;searchCoordinates&quot;:&quot;org.junit.platform:junit-platform-commons:1.9.2&quot;,&quot;searchKey&quot;:&quot;66392da96c46b35fc69b3f313aefe73bbf516722e9a1a2b85298b3a092677dbd&quot;},{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.apiguardian&quot;,&quot;name&quot;:&quot;apiguardian-api&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;1.1.2&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:org.apiguardian:apiguardian-api:1.1.2:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.apiguardian:apiguardian-api:1.1.2&quot;,&quot;searchCoordinates&quot;:&quot;org.apiguardian:apiguardian-api:1.1.2&quot;,&quot;searchKey&quot;:&quot;4a3fe7bd2ab2461282036b2e08a87f91ac004fefee457431a6d59798e555fd37&quot;},{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.junit.jupiter&quot;,&quot;name&quot;:&quot;junit-jupiter-engine&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;5.9.2&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:org.junit.jupiter:junit-jupiter-engine:5.9.2:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.junit.jupiter:junit-jupiter-engine:5.9.2&quot;,&quot;searchCoordinates&quot;:&quot;org.junit.jupiter:junit-jupiter-engine:5.9.2&quot;,&quot;searchKey&quot;:&quot;cd4a67ff7b61c1feca15094f1e50ae7774609c9410e11793eb06cd0d737b6d32&quot;},{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.junit.platform&quot;,&quot;name&quot;:&quot;junit-platform-engine&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;1.9.2&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:org.junit.platform:junit-platform-engine:1.9.2:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.junit.platform:junit-platform-engine:1.9.2&quot;,&quot;searchCoordinates&quot;:&quot;org.junit.platform:junit-platform-engine:1.9.2&quot;,&quot;searchKey&quot;:&quot;f8427a80312044af3492acee1c4fa58010286be5c97b05ab404f5e63be89283d&quot;}]" />
+  </component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="1446" />
+    <option name="indexTimeByRoot">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="1446" />
+      </map>
+    </option>
+  </component>
+</project>

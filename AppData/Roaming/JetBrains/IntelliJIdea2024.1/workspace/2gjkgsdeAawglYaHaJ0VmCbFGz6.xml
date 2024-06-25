@@ -1,0 +1,217 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ConstructionXper" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="mooapnzw73ti">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/example/constructionxper/HelloServlet.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-95">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 1,
+      "lastUsed": 1716218679075
+    },
+    "JSP": {
+      "usageCount": 1,
+      "lastUsed": 1716218731827
+    },
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1716218724797
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1716218679077" />
+    </language>
+    <language id="JSP">
+      <summary usageCount="1" lastUsage="1716218731827" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1716218724797" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ConstructionXper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ConstructionXper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ConstructionXper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ConstructionXper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ConstructionXper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper/src/main/java/org/example/constructionxper}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ConstructionXper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/user/IdeaProjects/ConstructionXpert-Services-Solution/ConstructionXper/src/main/webapp}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="index.jsp" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="powershell.exe" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2148000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.33025682" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info active="true" id="Pull Requests" order="2" visible="true" weight="0.33025682" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3304" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.3304" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3304" left="0.33025682" />
+    </layoutV2>
+    <recentWindows>
+      <value>Pull Requests</value>
+      <value>Terminal</value>
+      <value>Services</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="814" height="164" key="GridCell.Tab.0.bottom" timestamp="1716222833754">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="814" height="164" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1716222833754" />
+    <state width="814" height="164" key="GridCell.Tab.0.center" timestamp="1716222833754">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="814" height="164" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1716222833754" />
+    <state width="814" height="164" key="GridCell.Tab.0.left" timestamp="1716222833754">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="814" height="164" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1716222833754" />
+    <state width="814" height="164" key="GridCell.Tab.0.right" timestamp="1716222833754">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="814" height="164" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1716222833754" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/constructionxper/HelloServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

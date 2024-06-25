@@ -1,0 +1,35 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" __external-system-id="Maven" name="ConstructionXper:war exploded">
+    <output-path>$PROJECT_DIR$/target/ConstructionXper</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>ConstructionXper</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ConstructionXper" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/ConstructionXper/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ConstructionXper/web/Web" />
+    </root>
+  </artifact>
+  <artifact type="war" __external-system-id="Maven" name="ConstructionXper:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ConstructionXper</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ConstructionXper.war">
+      <element id="artifact" artifact-name="ConstructionXper:war exploded" />
+    </root>
+  </artifact>
+</component>

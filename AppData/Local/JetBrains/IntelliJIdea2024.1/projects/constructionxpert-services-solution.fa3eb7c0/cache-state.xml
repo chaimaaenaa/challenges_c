@@ -1,0 +1,21 @@
+<project version="4">
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProcessedFilesStorage">
+    <timestamps>
+      <entry key="c9690af2a031c5665db3139d81416633" value="1716199838442" />
+    </timestamps>
+  </component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="485" />
+    <option name="indexTimeByRoot">
+      <map>
+        <entry key="$PROJECT_DIR$" value="485" />
+      </map>
+    </option>
+  </component>
+</project>
